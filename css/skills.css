@@ -17,6 +17,10 @@
   padding: 0.5em 0.7em;
   margin: 10px;
 }
+.skills-skills:hover{
+  transition: all 0.5s ;
+  transform:scale(1.05);
+}
 .lista{
   list-style: none;
   display: flex;
