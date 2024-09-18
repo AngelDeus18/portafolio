@@ -24,16 +24,13 @@ nav {
   height: 100%;
 }
 
-.menu {
-  transition: all 0.4s;
-  position: relative;
+.menu a {
+  display: block; 
+  width: 100%;
   height: 100%;
-  flex-basis: 100%; 
-  display: flex; 
-  justify-content: center; 
-  align-items: center; 
+  text-align: center; 
+  line-height: 63px;
 }
-
 a {
   text-decoration: none;
   color: #000000;
